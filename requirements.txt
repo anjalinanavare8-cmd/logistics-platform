@@ -1,0 +1,11 @@
+fastapi>=0.110
+uvicorn[standard]
+sqlalchemy>=2.0
+pydantic>=2.5
+pydantic-settings
+pyjwt
+psycopg[binary]
+celery
+redis
+pytest
+httpx
